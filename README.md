@@ -28,5 +28,5 @@ adds some command to Minecraft
 - This is original author's download url(only health command)
 [Download the mod here](https://www.curseforge.com/minecraft/mc-mods/health-command)
 - This is edited mod download url(have all command)
-[Download the edited mod here]https://wwqo.lanzouo.com/iYXrM2e7zg4j passage:fwqc
+[Download the edited mod here](https://wwqo.lanzouo.com/iYXrM2e7zg4j) passage:fwqc
 
