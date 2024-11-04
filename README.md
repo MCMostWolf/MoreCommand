@@ -22,7 +22,7 @@ adds some command to Minecraft
 - `/back <targets> <froms>`
 ### Info
 
--The amount of the fire is 20 times the number of seconds(amount is tick)
+-The amount of the fire is 20 times the number of seconds(amount is tick)\n
 -back command can tp targets to froms last death point
 
 -This is original author's download url
