@@ -25,5 +25,8 @@ adds some command to Minecraft
 - The amount of the fire is 20 times the number of seconds(amount is tick)
 - back command can tp targets to froms last death point
 
-- This is original author's download url
+- This is original author's download url(only health command)
 [Download the mod here](https://www.curseforge.com/minecraft/mc-mods/health-command)
+- This is edited mod download url(have all command)
+[Download the edited mod here]https://wwqo.lanzouo.com/iYXrM2e7zg4j passage:fwqc
+
